@@ -29,6 +29,7 @@ nic2
         font-weight: bold;
       }
 
+
       @font-face {
         font-family: 'Orbitron';
         src: url('/fonts/Orbitron/Orbitron-VariableFont_wght.ttf') format('truetype');
