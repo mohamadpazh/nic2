@@ -14,6 +14,11 @@ nic2
         }
         return null;
       }
+        if (r != null) {
+          return unescape(r[2]);
+        }
+        return null;
+      }
       if (getQueryString('vc') === '1') {
         var vConsole = new window.VConsole();
       }</script><link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&display=swap" rel="stylesheet"/><style>@font-face {
