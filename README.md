@@ -20,9 +20,7 @@ nic2
         font-weight: 400;
         font-display: swap;
         src: url('/fonts/Roboto-Regular-webfont.woff') format('woff2');
-        unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
-      }
-
+      
       /* greek-ext */
       @font-face {
         font-family: 'Roboto';
