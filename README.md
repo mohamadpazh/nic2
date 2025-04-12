@@ -13,7 +13,11 @@ nic2
         src: url('/fonts/Orbitron/Orbitron-VariableFont_wght.ttf') format('truetype');
         font-weight: 1 999;
       }
-
+  @font-face {
+        font-family: 'Orbitron';
+        src: url('/fonts/Orbitron/Orbitron-VariableFont_wght.ttf') format('truetype');
+        font-weight: 1 999;
+      }
       @font-face {
         font-family: 'Roboto';
         font-style: normal;
