@@ -1,11 +1,4 @@
-# nic2
-nic2
 
-        
-      }
-      gtag('js', new Date());
-      gtag('config', 'G-65K8PCKDGS');</script><script src="https://unpkg.com/vconsole@latest/dist/vconsole.min.js"></script><script>function getQueryString(name) {
-     
       @font-face {
         font-family: 'Orbitron';
         src: url('/fonts/Orbitron/Orbitron-VariableFont_wght.ttf') format('truetype');
