@@ -1,12 +1,5 @@
 
 
-      @font-face {
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 400;
-        font-display: swap;
-        src: url('/fonts/Roboto-Regular-webfont.woff') format('woff2');
-      
       /* greek-ext */
       @font-face {
         font-family: 'Roboto';
