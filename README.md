@@ -1,15 +1,5 @@
 
 
-      /* greek-ext */
-      @font-face {
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 500;
-        font-display: swap;
-        src: url('/fonts/Roboto-Medium-webfont.woff') format('woff2');
-        unicode-range: U+1F00-1FFF;
-      }
-
       /* greek */
       @font-face {
         font-family: 'Roboto';
