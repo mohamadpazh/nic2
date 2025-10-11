@@ -1,14 +1,5 @@
 
 
-      /* greek */
-      @font-face {
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 700;
-        font-display: swap;
-        src: url('/fonts/Roboto-Bold-webfont.woff') format('woff2');
-        unicode-range: U+0370-03FF;
-      }
 
       @font-face {
         font-family: 'Din-Blod';
