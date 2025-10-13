@@ -1,13 +1,6 @@
 
 
-      @font-face {
-        font-family: 'Din-Blod';
-        src: url('/fonts/DIN-Bold.otf') format('truetype');
-        }
-        return null;
-      }
-        if (r != null) {
-          return unescape(r[2]);
+   
         }
         return null;
       }
