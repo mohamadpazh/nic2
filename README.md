@@ -1,15 +1,4 @@
 
-
-   
-        }
-        return null;
-      }
-      if (getQueryString('vc') === '1') {
-        var vConsole = new window.VConsole();
-      }</script><link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600&display=swap" rel="stylesheet"/><style>@font-face {
-        font-family: 'Orbitron';
-        src: url('/fonts/Orbitron/static/Orbitron-Regular.ttf') format('truetype');
-        font-weight: normal;
       }
 
 
