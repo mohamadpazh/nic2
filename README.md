@@ -1,12 +1,5 @@
 
-      }
 
-
-      @font-face {
-        font-family: 'Orbitron';
-        src: url('/fonts/Orbitron/static/Orbitron-Bold.ttf') format('truetype');
-        font-weight: bold;
-      }
 
 
       @font-face {
