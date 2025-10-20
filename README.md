@@ -1,12 +1,4 @@
 
-
-
-      @font-face {
-        font-family: 'Din-Blod';
-        src: url('/fonts/DIN-Bold.otf') format('truetype');
-        font-weight: normal;
-      }
-
       @font-face {
         font-family: 'Din-Blod';
         src: url('/fonts/DIN-Bold.otf') format('truetype');
